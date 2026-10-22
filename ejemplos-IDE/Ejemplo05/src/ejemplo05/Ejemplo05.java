@@ -16,11 +16,13 @@ public class Ejemplo05 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("----------------");
-        System.out.println(10 / 3);
+        System.out.println("división prueba");
+        int variable1 = 10 / 3;
+        System.out.println(variable1);
         
-        System.out.println("----------------");
-        System.out.println(10 / 3.0);
+        System.out.println("división decimal prueba");
+        double variable2 = 10 / 0.3;
+        System.out.println(variable2);
         
         System.out.println("----------------");
         System.out.println(10 / 3.0 + 1);
