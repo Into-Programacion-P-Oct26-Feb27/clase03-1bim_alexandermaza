@@ -16,11 +16,11 @@ public class Ejemplo11 {
      */
     public static void main(String[] args) {
         // Ejemplo, expresión: 10 + 2*3 + 9 / 3
-        int a = 10;
-        int b = 2;
+        int a = 15;
+        int b = 23;
         int c = 3;
-        int d = 9;
-        int e = 3;
+        int d = 95;
+        int e = 31;
 
         int resultado = a + b * c + d / e;
         System.out.println(resultado);
