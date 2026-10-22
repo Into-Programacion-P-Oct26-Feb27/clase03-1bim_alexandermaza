@@ -1,4 +1,4 @@
-/*
+  /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -29,8 +29,8 @@ public class Ejemplo01 {
         System.out.println("Ingrese su apellido por favor");
         String apellido = entrada.nextLine();
         
-        System.out.println("Nombre ingresado es:" + nombre);
-        System.out.println("Apellido ingresado es:" + apellido);
+        System.out.println("Nombre ingresado es: " + nombre);
+        System.out.println("Apellido ingresado es: " + apellido);
         
     }
     
